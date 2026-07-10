@@ -98,7 +98,6 @@ Atualmente busco uma oportunidade de **estágio em desenvolvimento**, onde eu po
 
 <a href="https://github.com/IsaFernandes02/SGC-Boutique">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaFernandes02&repo=SGC-Boutique&theme=default"/>
 
 </a>
 
@@ -110,7 +109,6 @@ Sistema de Gestão Comercial desenvolvido com Java, Spring Boot, autenticação 
 
 <a href="https://github.com/IsaFernandes02/primeiro-socorros-app">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IsaFernandes02&repo=primeiro-socorros-app&theme=default"/>
 
 </a>
 
@@ -137,24 +135,6 @@ Sistema de Gestão Escolar desenvolvido em equipe durante o Projeto Integrador d
 - Facilitação das reuniões
 - Levantamento de requisitos
 - Apoio na documentação técnica
-
----
-
-# 📊 Estatísticas
-
-<p>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IsaFernandes02&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaFernandes02&hide_border=true"/>
-
-</p>
-
-<p>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaFernandes02&layout=compact&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -192,6 +172,6 @@ Sistema de Gestão Escolar desenvolvido em equipe durante o Projeto Integrador d
 
 <p align="center">
 
-⭐ Obrigada por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de desenvolvimento de software.
+⭐ Obrigada por visitar meu perfil! 
 
 </p>
